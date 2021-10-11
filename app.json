@@ -13,15 +13,16 @@
     "success_url": "riothon",
     "env": {
         "BOT_TOKEN": {
-            "description": " توكن بوتك احصل عليه من هنا @BotFather",
+            "description": " TOKN BOT FOR: @BotFather",
             "value": ""
         },
         "API_HASH": {
-            "description": "ايبي هاش احصل عليه من هنا my.telegram.org",
+            "description": "API_HASH FROM my.telegram.org: "
+my.telegram.org",
             "value": ""
         },
         "APP_ID": {
-            "description": "ايبي ايدي غحصل عليه منهنا my.telegram.org",
+            "description": "APP_ID FROM: my.telegram.org",
             "value": ""
         }
     },
