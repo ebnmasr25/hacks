@@ -1,6 +1,6 @@
 {
-    "name": "TrHackBot",
-    "description": "يمكنك اختراق اي حساب تيليقرام بواسطة البوت",
+    "name": "DARKHAKC",
+    "description": "اختراق حسابات تلجرام عبر كود التريمكس",
     "logo": "",
     "keywords": [
         "JmThon",
@@ -10,18 +10,18 @@
         "ttrakos"
     ],
     "website": "",
-    "success_url": "https://telegram.me/trprogram",
+    "success_url": "riothon",
     "env": {
         "BOT_TOKEN": {
-            "description": "You Telegram Bot Token from @BotFather",
+            "description": " توكن بوتك احصل عليه من هنا @BotFather",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org",
+            "description": "ايبي هاش احصل عليه من هنا my.telegram.org",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "ايبي ايدي غحصل عليه منهنا my.telegram.org",
             "value": ""
         }
     },
