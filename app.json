@@ -17,8 +17,7 @@
             "value": ""
         },
         "API_HASH": {
-            "description": "API_HASH FROM my.telegram.org: "
-my.telegram.org",
+            "description": "API_HASH FROM my.telegram.org: ",
             "value": ""
         },
         "APP_ID": {
